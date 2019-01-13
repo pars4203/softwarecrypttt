@@ -1,0 +1,9 @@
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\bin\Debug\ProgramŞifreleyeci.exe.config
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\bin\Debug\ProgramŞifreleyeci.exe
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\bin\Debug\ProgramŞifreleyeci.pdb
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\obj\Debug\ProgramŞifreleyeci.csprojResolveAssemblyReference.cache
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\obj\Debug\ProgramŞifreleyeci.Form1.resources
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\obj\Debug\ProgramŞifreleyeci.Properties.Resources.resources
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\obj\Debug\ProgramŞifreleyeci.csproj.GenerateResource.Cache
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\obj\Debug\ProgramŞifreleyeci.exe
+c:\users\yavuz\documents\visual studio 2013\Projects\ProgramŞifreleyeci\ProgramŞifreleyeci\obj\Debug\ProgramŞifreleyeci.pdb
